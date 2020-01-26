@@ -1,2 +1,2 @@
-# Coursera_Data_Science_Projects
+# Coursera_Capstone
 Data Science Projects from IBM Data Science Specialization track on Coursera
